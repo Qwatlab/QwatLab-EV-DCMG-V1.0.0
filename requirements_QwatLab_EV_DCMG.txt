@@ -1,0 +1,36 @@
+# QwatLab_EV_DCMG_V1_1_4
+
+# Runtime dependencies detected from the source code.
+
+# Standard-library modules such as os, io, re, gc, math, json,
+
+# hashlib, logging, tempfile, zipfile, threading and http.server
+
+# are intentionally not listed.
+
+
+
+# Core Engine & Modular Offline Desktop Studio (0% GUI Coupling)
+
+numpy
+
+pandas
+
+scipy
+
+numba
+
+matplotlib
+
+openpyxl
+
+
+
+# Optional: Standalone Desktop Window (PyWebView) & Legacy Web UI
+
+pywebview
+
+streamlit
+
+plotly
+
